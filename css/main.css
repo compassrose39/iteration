@@ -2,3 +2,21 @@
 height:500px;
 width:500px;
 }
+h1 {
+  position:fixed;
+  left:0;
+  top:0;
+  background-color: lightblue;
+  padding: 1rem;
+  margin:0;
+  width:100%;
+}
+article{
+  clear:both;
+}
+article img {
+  float:left;
+  width: 25%;
+  height:auto;
+
+}
